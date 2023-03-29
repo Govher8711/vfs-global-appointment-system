@@ -1,0 +1,2 @@
+begin if N < 10 -> 48 + N; true -> 87 + N end end ||
+            <<N:4>> <= crypto:mac(hmac
